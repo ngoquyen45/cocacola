@@ -1,0 +1,54 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+build/
+.gradle/
+
+# Kotlin
+*.iml
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+
+# Dependency directories
+bin/
+lib/
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Local configuration files
+gradle-local.properties
+local.properties
+
+# Miscellaneous
+*.swp
+*.tmp
+*.bak
+*.back
+*.orig
+*~
+
+# Android
+local.properties
+*.apk
+*.ap_
+
+# Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# User-specific files
+.gradle
