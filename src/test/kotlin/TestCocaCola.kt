@@ -59,4 +59,12 @@ class TestCocaCola {
         // Assert
         assertEquals(10, result)
     }
+
+    @Test
+    fun testCalculateCocaColaDrink4WithRecursiveAlgorithm() {
+        val N = 13L
+        val result = calculateCocaColaDrink(N, ALGORITHMS.RECURSIVE)
+        // Assert
+        assertEquals(19, result)
+    }
 }
